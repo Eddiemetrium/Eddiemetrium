@@ -8,7 +8,7 @@ Web and mobile developer
 * 🖥️  See my portfolio at [MyPortfolio](https://personal-portfolio-site-tailwindcss.vercel.app/)
 * ✉️  You can contact me at [eddiemitch262@gmail.com](mailto:eddiemitch262@gmail.com)
 * 🧠 I'm learning Node.js, Python and Cyber Security
-* ⚡  Gif game 💪🏿
+*
 
 ### Skills
 
