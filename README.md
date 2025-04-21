@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/naruto-sasuke-sharingan-ZL2iRxhnDwtSE" width="250" height="200"/>
+  <img src="[https://giphy.com/gifs/naruto-sasuke-sharingan-ZL2iRxhnDwtSE](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN4MTRkYnBvMDVhNTN5YXhlbm42MG5zYWZ6c3pjYjdyMnlzbTR5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3fNmJ20ErpkjK/giphy.gif)" width="250" height="200"/>
 </div>
 
 Web and mobile developer
@@ -14,7 +14,7 @@ Web and mobile developer
 * 🧠 I'm learning Node.js, Rust and Cyber Security
 
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/naruto-sasuke-sharingan-ZL2iRxhnDwtSE](https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif)" width="250" height="200"/>
+  <img src="[[https://giphy.com/gifs/naruto-sasuke-sharingan-ZL2iRxhnDwtSE](https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB5d21laTU0MWQ2Z2VvdXhkMng3N3Ric295d3oyZTBjNGtlNXp3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif))" width="250" height="200"/>
 </div>
 
 ### Skills
