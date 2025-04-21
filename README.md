@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="250" height="200"/>
+  <img src="https://media0.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="450" height="300"/>
 </div>
 
 Web and mobile developer
@@ -14,7 +14,7 @@ Web and mobile developer
 * 🧠 I'm learning Node.js, Rust and Cyber Security
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBmOWNrNnExcTNxYTBxMDNtYnUyeW01dHlsZHhqZ2IwNWJoNGpvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZL2iRxhnDwtSE/giphy.gif" width="250" height="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBmOWNrNnExcTNxYTBxMDNtYnUyeW01dHlsZHhqZ2IwNWJoNGpvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZL2iRxhnDwtSE/giphy.gif" width="550" height="350"/>
 </div>
 
 ### Skills
@@ -29,6 +29,8 @@ Web and mobile developer
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36" height="36" alt="tailwind css" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+  <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https:https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="36" height="36" alt="NextJS" /></a>
