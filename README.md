@@ -13,6 +13,9 @@ Web and mobile developer
 * ✉️  You can contact me at [eddiemitch262@gmail.com](mailto:eddiemitch262@gmail.com)
 * 🧠 I'm learning Node.js, Rust and Cyber Security
 
+<div id="header" align="center">
+  <img src="[https://giphy.com/gifs/naruto-sasuke-sharingan-ZL2iRxhnDwtSE](https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif)" width="250" height="200"/>
+</div>
 
 ### Skills
 
