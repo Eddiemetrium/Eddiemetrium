@@ -1,14 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edwin Riungu
 =====================================================================================================================================
 
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/naruto-sasuke-sharingan-ZL2iRxhnDwtSE" width="250" height="200"/>
+</div>
+
 Web and mobile developer
 ------------------------
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [MyPortfolio](https://personal-portfolio-site-tailwindcss.vercel.app/)
 * ✉️  You can contact me at [eddiemitch262@gmail.com](mailto:eddiemitch262@gmail.com)
-* 🧠 I'm learning Node.js, Python and Cyber Security
-*
+* 🧠 I'm learning Node.js, Rust and Cyber Security
+
 
 ### Skills
 
